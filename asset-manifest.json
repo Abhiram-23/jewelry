@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/jewelry/static/css/main.75dd5c5d.css",
+    "main.js": "/jewelry/static/js/main.d68e8ab9.js",
+    "static/js/453.bd2432f7.chunk.js": "/jewelry/static/js/453.bd2432f7.chunk.js",
+    "static/media/trendingImage4.jpg": "/jewelry/static/media/trendingImage4.6ffee34f5e569c45153a.jpg",
+    "static/media/bannerimg1.jpg": "/jewelry/static/media/bannerimg1.085965dfc54a613fc3cf.jpg",
+    "static/media/homeimage2.jpg": "/jewelry/static/media/homeimage2.233a6e189d486c07e6fa.jpg",
+    "static/media/bannerimg3.png": "/jewelry/static/media/bannerimg3.324a67f49f7a6bd04c28.png",
+    "static/media/img.png": "/jewelry/static/media/img.52dae7177f3a4dc4c816.png",
+    "static/media/shop_image.jpeg": "/jewelry/static/media/shop_image.299da43bd71bc8d2b9eb.jpeg",
+    "static/media/img4.jpg": "/jewelry/static/media/img4.e1041f11725603423ec5.jpg",
+    "static/media/img2.jpg": "/jewelry/static/media/img2.b43a7edd561e398dd4f0.jpg",
+    "static/media/img3.jpg": "/jewelry/static/media/img3.219de784a5aa1a6e838d.jpg",
+    "static/media/homeimage1.jpg": "/jewelry/static/media/homeimage1.fc5fea83debaeee992a6.jpg",
+    "static/media/bannerimg2.jpg": "/jewelry/static/media/bannerimg2.4ccb2970bfeada2f3462.jpg",
+    "static/media/trendingImage2.jpg": "/jewelry/static/media/trendingImage2.491a1bf6e10e1162c9b8.jpg",
+    "static/media/trendingImage3.jpg": "/jewelry/static/media/trendingImage3.36b4ece9312f72b3a960.jpg",
+    "static/media/trendingImage1.jpg": "/jewelry/static/media/trendingImage1.27bcda2be3c42415b97a.jpg",
+    "static/media/img4.jpeg": "/jewelry/static/media/img4.ba3cd7dad72e5918a77a.jpeg",
+    "index.html": "/jewelry/index.html",
+    "main.75dd5c5d.css.map": "/jewelry/static/css/main.75dd5c5d.css.map",
+    "main.d68e8ab9.js.map": "/jewelry/static/js/main.d68e8ab9.js.map",
+    "453.bd2432f7.chunk.js.map": "/jewelry/static/js/453.bd2432f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dd5c5d.css",
+    "static/js/main.d68e8ab9.js"
+  ]
+}
