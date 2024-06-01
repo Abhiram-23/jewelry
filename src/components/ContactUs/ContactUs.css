@@ -1,0 +1,127 @@
+.contact-us {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 800px;
+  width: 90%; /* Take full width of its container */
+  background-color: #f5f5dc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-us__container {
+  margin-bottom: 20px;
+}
+
+.contact-us__header {
+  background-color: #b88a44; /* Gold color */
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+}
+
+.contact-us__header h1 {
+  margin: 0;
+  color: #fff;
+}
+
+.contact-us__content {
+  display: flex;
+  flex-direction: column; /* Changed to column for mobile responsiveness */
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+  padding: 20px;
+}
+
+.contact-us__info {
+  width: 100%; /* Take full width */
+  margin-bottom: 20px;
+}
+
+.contact-us__info p {
+  margin: 0 0 10px 0;
+  font-size: 1.1rem;
+}
+
+.contact-us__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-us__list li {
+  margin: 10px 0;
+}
+
+.contact-us__list a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.contact-us__list a:hover {
+  text-decoration: underline;
+}
+
+.contact-us__image {
+  width: 100%; /* Take full width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.contact-us__shop-image {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+.contact-us__follow {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contact-us__follow h2 {
+  margin: 0 0 10px 0;
+}
+
+.contact-us__social-media {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.contact-us__social-media li {
+  margin: 0;
+}
+
+.contact-us__social-media a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.contact-us__social-media a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 768px) {
+  .contact-us {
+    width: 80%; /* Adjust width for larger screens */
+    max-width: 1000px; /* Limit maximum width for better readability */
+  }
+
+  .contact-us__content {
+    flex-direction: row; /* Arrange content in a row for larger screens */
+    align-items: flex-start; /* Align items to the start */
+  }
+
+  .contact-us__info {
+    width: 60%; /* Take 60% width on larger screens */
+    margin-right: 20px;
+  }
+
+  .contact-us__image {
+    width: 40%; /* Take 40% width on larger screens */
+  }
+}

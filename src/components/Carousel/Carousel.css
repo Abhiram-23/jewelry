@@ -1,0 +1,43 @@
+.carousel-container {
+  padding: 10px;
+}
+.item {
+  display: flex;
+  border-radius: 8px;
+  height: 60vh;
+  background: #b88a44;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftBtn {
+  position: absolute;
+  top: 50%;
+  left: 18px;
+  color: black;
+  cursor: pointer;
+}
+
+.rightBtn {
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  color: black;
+  cursor: pointer;
+}
+
+.slide-image {
+  height: 40vh;
+  max-width: 80vw;
+  min-width: 40vw;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+.slide-description {
+  margin: 0;
+  font-size: 3rem;
+  font-family: "Garamond", serif;
+  color: #fff;
+  letter-spacing: 1.5px;
+}

@@ -1,0 +1,85 @@
+/* General styling */
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #faf3e0;
+  color: #333;
+}
+
+.homepage {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f5f5dc;
+}
+
+.homepage__header {
+  background-color: #f5cb8b;
+  color: #463e3e;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.homepage__title {
+  margin: 0;
+  font-size: 3rem;
+  font-family: "Garamond", serif;
+  color: #3a3535;
+  letter-spacing: 1.5px;
+}
+
+.homepage__intro {
+  margin: 3rem 0;
+  padding: 2rem;
+  background-color: #d3c9ac;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.homepage__intro-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: rgb(35, 35, 34);
+  font-family: "Garamond", serif;
+  font-weight: 600;
+}
+
+.homepage__images {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.homepage__image {
+  width: 45%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation Component Styling */
+.navigation {
+  background-color: #b88a44;
+  padding: 1rem;
+}
+
+.navigation__list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation__link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.navigation__link:hover {
+  text-decoration: underline;
+}
